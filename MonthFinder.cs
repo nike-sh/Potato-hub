@@ -58,10 +58,7 @@ namespace MonthPrinter
                          Console.WriteLine("please anter a valid number");
                          break;
                 }
-
             Console.ReadLine();
-
-
             }
         }
     }
